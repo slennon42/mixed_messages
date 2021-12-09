@@ -16,3 +16,5 @@ Javascript (not sure what version)
 Git
 GitHub
 Node to run
+
+changing readme a bit to see if Circle has stopped
